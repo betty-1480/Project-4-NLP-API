@@ -1,5 +1,4 @@
-import { handleSubmit } from './../formHandler'
-
+import { handleSubmit } from '../formHandler'
 
 describe('The function "handleSubmit()" should exist' , () => {
     test('It should has no return ', () => {
